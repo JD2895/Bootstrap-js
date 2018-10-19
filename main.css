@@ -1,0 +1,15 @@
+p{
+	font-family: "Trebuchet MS";
+	font-size: 40px;
+	color: black;
+	padding-left: 50px;
+	padding-right: 50px;
+	line-height: 1.4;
+	font-weight: 500;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.intro-para1{
+	padding-top: 50px;
+}
