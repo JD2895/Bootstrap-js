@@ -1,6 +1,4 @@
 p{
-	font-family: "Trebuchet MS";
-	font-size: 4.5vW;
 	color: black;
 	line-height: 1.4;
 	font-weight: 500;
@@ -10,6 +8,32 @@ p{
 	padding-right: 5%;
 }
 
+.intro{
+	text-align: center;
+	width: 100%;
+}
+
 .intro-para1{
-	padding-top: 5%;
+	padding-top: 3%;
+	font-size: 7.5vw;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.intro-para2{
+	font-size: 5.2vw;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.line_divider{ 
+    display:block;
+    border:none;
+    color:white;
+    height:2px;
+    background:black;
+	background: linear-gradient(to right, rgba(0, 0, 0, 0) 15%, rgba(0, 0, 0, 0.75) 50%, rgba(0, 0, 0, 0) 85%);
+}
+
+.navbar{
+	font-family: 'Josefin Sans', sans-serif;
+	text-align: center;
 }
